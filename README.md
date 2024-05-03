@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ambi-dronline
+- 👋 Hi, I’m Ambareesha
 - 👀 I’m interested in Elixir, IoT, Flutter
 - 🌱 I’m currently learning LiveView
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ambareesha7@gmail.com
 - 😄 Pronouns: Ambarish
 - ⚡ Fun fact: ...
 
